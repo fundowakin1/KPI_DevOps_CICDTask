@@ -1,6 +1,6 @@
 # KPI_DevOps_DockerTask
 
-## Simple node.js app that runs on port 80
+## Simple Node.js app that runs on port 80
 
 ### Build Docker image
 
